@@ -14,7 +14,7 @@ process.source = cms.Source("PoolSource",
 #run 319756 Zero Bias AOD
 
 
-        'root://cms-xrd-global.cern.ch//store/data/Run2018C/ZeroBias/AOD/PromptReco-v2/000/319/756/00000/6E29D2DE-878B-E811-88AE-02163E019F1A.root'      
+# example 'root://cms-xrd-global.cern.ch//store/data/Run2018C/ZeroBias/AOD/PromptReco-v2/000/319/756/00000/6E29D2DE-878B-E811-88AE-02163E019F1A.root'      
 
 
     )
